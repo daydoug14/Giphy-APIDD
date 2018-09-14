@@ -1,1 +1,2 @@
 # Giphy-APIDD
+Here I used the GIPHY API to make a dynamic web page that populates with gifs of sports short video clips. In order to create this web page, I called the GIPHY API and used JavaScript and jQuery to change the HTML of your site.

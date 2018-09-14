@@ -50,6 +50,7 @@ function start() {
         console.log(sport);
 
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + sport + "&api_key=BGYmJXgqS7tCDL91XMwztQYZhV7Goeik&limit=10";
+        
         $.ajax({
           url: queryURL,
           method: "GET"
